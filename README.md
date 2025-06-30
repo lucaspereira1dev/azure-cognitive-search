@@ -57,7 +57,7 @@ Este projeto visa demonstrar a aplicação de técnicas de **Inteligência Artif
 ### **Passos para Configuração**  
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/organizacao-docs-ia.git
+   git clone https://github.com/lucaspereira1dev/organizacao-docs-ia.git
    cd organizacao-docs-ia
    ```  
 2. Instale as dependências:  
